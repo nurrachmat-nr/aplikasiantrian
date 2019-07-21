@@ -9,6 +9,9 @@ Dapat mendukung bannyak channel (client) sesuai kebutuhan
 
 Silakan dikembangkan sendiri, jika butuh support bisa hubungi saya ;)
 
+# Tampilan Antar Muka
+![alt text](https://i.ibb.co/0qRB9KP/halambilantrian.png)
+
 # Kebutuhan
 Aplikasi ini membutuhkan php cli. Pastikan setting path environment ke PHP anda sudah diatur.
 Jendela php cli tidak boleh ditutup selama program dijalankan
