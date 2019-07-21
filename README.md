@@ -8,3 +8,7 @@ Aplikasi ini juga sudah dilengkapi QR-Code Reader
 Dapat mendukung bannyak channel (client) sesuai kebutuhan
 
 Silakan dikembangkan sendiri, jika butuh support bisa hubungi saya ;)
+
+# Kebutuhan
+Aplikasi ini membutuhkan php cli. Pastikan setting path environment ke PHP anda sudah diatur.
+Jendela php cli tidak boleh ditutup selama program dijalankan
