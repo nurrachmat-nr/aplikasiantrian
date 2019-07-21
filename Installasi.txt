@@ -1,0 +1,10 @@
+1. Pindahkan Folder appantrian ke direktori web server (www / htdocs)
+2. Jalankan websocket server di port 8080 melalui terminal / command prompt dengan menjalankan fungsi 
+
+php -p queue-server.php
+
+3. Biarkan Halaman command prompt terbuka.
+4. Buka halaman :
+a. splash.html (pendaftaran antrian)
+b. index.html (screen nomor panggilan)
+c. teller1.html s/d teller3.html (untuk teller)
